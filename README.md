@@ -35,13 +35,13 @@
 * 下記リンクをクリックしてプロジェクトをダウンロードします
  * __[AndroidAutoLoginApp](https://github.com/NIFTYCloud-mbaas/AndroidAutoLoginApp/archive/master.zip)__
 
- ### 3. Android Studioでアプリを起動
+### 3. Android Studioでアプリを起動
 
- AndroidStudioを開きます、「既存プロジェクトを開く」と選択します。ダウンロードして解凍したプロジェクトを選択します。
+* AndroidStudioを開いて、「Open an existing Android Studio project」から、ダウンロードして解凍したプロジェクトを選択します
 
  ![画像8-1](readme-img/android_project_open.png)
 
- 選択したプロジェクトを開きます。
+* 選択したプロジェクトが開かれます
 
  ![画像6](readme-img/006.png)
 
@@ -53,11 +53,13 @@
 
 * それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
  * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
- * 書き換え終わったら`command + s`キーで保存をします
+* 書き換え終わったら保存してください
+ * Windowsの場合、Ctrl + Sで保存できます。
+ * Macの場合、command + Sで保存できます。
 
-### 6. 動作確認と解説
+### 5. 動作確認と解説
 
-* AndroidStudioでビルドを行います
+* 上の実行ボタン（さんかくの再生マーク）をクリックして、Emulatorでビルドを行います
 * アプリが起動します
 
 #### 初回起動時
@@ -81,7 +83,7 @@
 #### ２回目以降起動時
 初回起動時に端末IDで会員情報が登録されているため、２回目以降起動時はログインが行われます
 
-* 左上の「■」ボタンをクリックしてプログラムを停止します
+* 上の「■」ボタンをクリックしてプログラムを停止します
 * 再度、実行ボタン（さんかくの再生マーク）をクリックします
 
 ##### アプリ側
