@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mbaas.com.nifty.androidautologinapp">
+    package="mbaas.com.nifcloud.androidautologinapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name="com.nifty.cloud.mb.core.NCMBApplicationController">
-        <activity android:name=".MainActivity">
+        <activity android:name="mbaas.com.nifcloud.androidautologinapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
