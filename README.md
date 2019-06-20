@@ -16,9 +16,9 @@
 
 ## 動作環境
 
-* Android Studio ver. 3.1
+* Android Studio ver. 3.4.1
 * Android OS ver. 6.0, OS ver. 4.4.2
-* Android SDK v3
+* Android SDK v3.0.2
   - SDK v2系だと動作しないので注意
 
 ※上記内容で動作確認をしています。
@@ -43,7 +43,7 @@
 * 下記リンクをクリックしてプロジェクトをダウンロードします
  * https://github.com/NIFCloud-mbaas/AndroidAutoLoginApp/archive/master.zip
 * ダウンロードしたプロジェクトを解凍します
-* AndroidStudio を開きます、「Open an existing Android Studio projct」をクリックして解凍したプロジェクトを選択します
+* AndroidStudio を開きます、「Open an existing Android Studio project」をクリックして解凍したプロジェクトを選択します
 
 ![画像8-1](readme-img/android_project_open.png)
 
@@ -64,8 +64,8 @@ SDKはここ（[SDK リリースページ](https://github.com/NIFCloud-mbaas/ncm
   - app/build.gradleファイルに以下を追加します
 ```gradle
 dependencies {
-    compile 'com.google.code.gson:gson:2.3.1'
-    compile files('libs/NCMB.jar')
+    implementation 'com.google.code.gson:gson:2.3.1'
+    implementation files('libs/NCMB.jar')
 }
 ```
   - androidManifestの設定
