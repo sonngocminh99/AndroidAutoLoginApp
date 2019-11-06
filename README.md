@@ -16,10 +16,10 @@
 
 ## 動作環境
 
-* Android Studio ver. 3.4.1
-* Android OS ver. 6.0, OS ver. 4.4.2
-* Android SDK v3.0.2
-  - SDK v2系だと動作しないので注意
+* MacOS Mojave v10.14.6 (18G103)
+* Android studio: 3.4.1
+* Simulator: Pixel 2 Android OS Version 10
+* Unity 2019.1.14f1
 
 ※上記内容で動作確認をしています。
 
