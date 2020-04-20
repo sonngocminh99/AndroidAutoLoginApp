@@ -1,4 +1,4 @@
-package mbaas.com.nifty.androidautologinapp;
+package mbaas.com.nifcloud.androidautologinapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

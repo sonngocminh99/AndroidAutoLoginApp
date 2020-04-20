@@ -1,4 +1,4 @@
-package mbaas.com.nifty.androidautologinapp;
+package mbaas.com.nifcloud.androidautologinapp;
 
 import org.junit.Test;
 
