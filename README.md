@@ -84,7 +84,7 @@ dependencies {
 
 ![画像7](readme-img/007.png)
 
-* それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
+* それぞれ`YOUR_APPLICATION_KEY`と`YOUR_CLIENT_KEY`の部分を書き換えます
    - このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
 * 書き換え終わったら保存してください
    * Windowsの場合、Ctrl + Sで保存できます。
