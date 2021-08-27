@@ -19,7 +19,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "mbaas.com.nifcloud.androidsegmentuserapp"
+        applicationId "mbaas.com.nifcloud.androidautologinapp"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
