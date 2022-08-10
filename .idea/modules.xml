@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidAutoLoginApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidAutoLoginApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAutoLoginApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
